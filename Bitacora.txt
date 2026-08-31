@@ -1,0 +1,6 @@
+3 Update/Upgrade: los comandos funcionaron correctamente
+4 Las lineas significan que ya todo esta instalado y actualizado dentro del sistema operativo
+5 Cometi el error de no usar el uso ya que esta es una carpeta restringida
+6 Movi el archivo con ayuda del sudo para poderlo mover 
+7 Use el echo para sobreescribir el archivo sin tener que abrirlo, a la vez que lo muevo 
+8 Hice uso de la bandera -a para ver los archivos ocultos
